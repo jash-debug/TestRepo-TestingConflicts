@@ -1,2 +1,2 @@
 for the first commit 
-Adding somes words
+changes made on Feature 1
