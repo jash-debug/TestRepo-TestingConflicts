@@ -1,1 +1,2 @@
 for the first commit 
+changes made on Feature 1
